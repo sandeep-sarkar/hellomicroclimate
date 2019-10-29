@@ -1,6 +1,6 @@
 {
   "contextRoot": "",
-  "internalPort": "",
+  "internalPort": "5000",
   "healthCheck": "",
   "watchedFiles": {
     "includeFiles": [
